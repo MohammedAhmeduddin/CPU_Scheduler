@@ -137,6 +137,12 @@ python -m pip install --upgrade pip
 This project was created by the following team members:
 
 Mohammed Aslam (mm2954@njit.edu)
-Kyle Kissinger (kck6@njit.edu)
+Kyle Kissinger (kck6@njit.edu
 Ahmeduddin Mohammed (am3837@njit.edu)
 If you encounter any issues or have questions, please contact the team for assistance.
+
+
+### 11. Video Link
+https://njit-edu.zoom.us/rec/share/rKgo4tsbRXUOrVRF9VTAc6YKffEQ6-Hd_aTkW0uKFPCpCFgvWDqla-ZmMg_Q_apT.mo5gHstuQuOnZzj6?startTime=1732584384000
+
+Passcode: Y&JNz235
